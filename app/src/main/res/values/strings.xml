@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business SMS</string>
+
+    <string name="facebook_app_id">1036170936438773</string>
+    <string name="VK_ACCESS_TOKEN">CQYYcLXV6OHi3LzdQBBJ</string>
+    <integer name="com_vk_sdk_AppId">5572841</integer>
+
+    <string name="button_ADD">Добавить шаблон</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+
+
+</resources>
